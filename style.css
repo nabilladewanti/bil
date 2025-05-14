@@ -1,0 +1,22 @@
+body {
+    padding-top: 56px;
+    background: linear-gradient(135deg, #e0f7fa, #fffde7);
+  }
+  .hero {
+    background: linear-gradient(rgba(0, 100, 0, 0.5), rgba(0, 100, 0, 0.5)), url('https://via.placeholder.com/1200x400?text=Kalamansi+Segar+Asri') center center/cover no-repeat;
+    height: 400px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  section { 
+    background: #ffffffcc;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  footer {
+    background: linear-gradient(to right, #388e3c, #66bb6a);
+  }
